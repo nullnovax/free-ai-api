@@ -1,40 +1,80 @@
 # Free AI API
 
-A curated list of AI APIs, AI gateways, free credits, and developer services.
+> Discover free AI APIs, signup credits, AI gateways, and developer services.
 
-## Featured AI API
+[![GitHub stars](https://img.shields.io/github/stars/nullnovax/free-ai-api?style=flat-square)](https://github.com/nullnovax/free-ai-api/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/nullnovax/free-ai-api?style=flat-square)](https://github.com/nullnovax/free-ai-api/network/members)
+[![License](https://img.shields.io/github/license/nullnovax/free-ai-api?style=flat-square)](LICENSE)
 
-### AgentRouter
+---
 
-[AgentRouter](https://agentrouter.org/) is an AI API gateway that provides access to multiple AI models through a unified API.
+## Featured: AgentRouter
 
-**Highlights:**
+**AgentRouter** is an AI API gateway that provides access to multiple AI models through a unified API.
+
+### Available Models
 
 * Claude
 * GPT
 * Codex
+* Other AI models
+
+### Features
+
+* Free signup credit
 * Multi-model API
-* API access for developers
 * OpenAI-compatible API
 * Claude Code support
-* Free signup credit
+* Developer API access
+* Unified API endpoint
+* Multiple AI providers
 
-### Register
+### 🎁 Free Signup
 
-[Get started with AgentRouter](https://agentrouter.org/register?aff=P93d)
+New users can register and receive promotional credit, subject to the current terms of the service.
 
-> Referral link: This is an affiliate/referral link.
+**Register here:**
+
+👉 **[Get Free Credits from AgentRouter](https://agentrouter.org/register?aff=P93d)**
+
+> **Referral disclosure:** The link above is a referral/affiliate link. Using it may provide benefits to the referrer.
 
 ---
 
-## More Free AI APIs
+## Quick Information
 
-More AI API services and platforms will be added soon.
+| Feature           | AgentRouter |
+| ----------------- | ----------- |
+| Free Registration | ✅           |
+| Signup Credit     | 🎁          |
+| Claude            | ✅           |
+| GPT               | ✅           |
+| Codex             | ✅           |
+| API Access        | ✅           |
+| OpenAI Compatible | ✅           |
+| Claude Code       | ✅           |
+
+---
+
+## Why This Repository?
+
+This project aims to collect and document AI services that offer:
+
+* Free AI API access
+* Signup credits
+* Free trials
+* AI API gateways
+* Developer tools
+* Claude, GPT, Gemini and other AI models
+
+More services will be added over time.
 
 ---
 
 ## Disclaimer
 
-This repository is an independent community resource and is not affiliated with AgentRouter or any listed service.
+This repository is an independent community resource.
 
-Always verify pricing, available models, API limits, and promotional credits on the official service website.
+It is not affiliated with, endorsed by, or officially connected to AgentRouter or any other service listed here.
+
+AI service pricing, models, limits, availability, and promotional credits can change at any time. Always verify the current information on the official service website.
